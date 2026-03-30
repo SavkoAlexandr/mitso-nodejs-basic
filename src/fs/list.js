@@ -12,5 +12,5 @@ const list = async () => {
     throw new Error("FS operation failed");
   }
 };
-//
+
 await list();
