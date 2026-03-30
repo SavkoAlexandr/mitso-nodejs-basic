@@ -1,0 +1,21 @@
+=== dontLookAtMe.txt ===
+What are you looking at?!
+
+=== fileToRead.txt ===
+My content
+should
+be
+printed
+into
+console
+!
+
+=== fileToRemove.txt ===
+How dare you!
+
+=== fresh.txt ===
+I am fresh and young
+
+=== hello.txt ===
+Hello Node.js
+
